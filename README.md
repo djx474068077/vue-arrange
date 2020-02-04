@@ -1,3 +1,4 @@
+
 # arrange
 
 ## Project setup
@@ -22,3 +23,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+
+# vue-arrange
+将一系列的字进行组合的小工具
+
