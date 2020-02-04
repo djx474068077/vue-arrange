@@ -1,6 +1,6 @@
 module.exports = {
-  publicPath: './',
-  outputDir: '组合',
+  publicPath: '/',
+  outputDir: 'dist',
   // filenameHashing: true,
   productionSourceMap: false, // 编译后产不产生map文件
   devServer: {
